@@ -1,0 +1,32 @@
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\ResolveAssemblyReference.cache
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\QuakeRcon.Form1.resources
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\ResGen.read.1.tlog
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\ResGen.write.1.tlog
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\GenerateResource.read.1.tlog
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\GenerateResource.write.1.tlog
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\JWBS.Properties.Resources.resources
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\JWBS.AboutBox1.resources
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\bin\Debug\JWBS.exe.config
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\bin\Debug\JWBS.exe
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\bin\Debug\JWBS.pdb
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\JWBS.exe
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\JWBS.pdb
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\bin\Debug\Resources\Licence.txt
+D:\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\bin\Debug\Resources\ReadMe and Changelog.txt
+E:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\bin\Debug\JWBS.exe.config
+E:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\JWBS.exe
+E:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\JWBS.pdb
+D:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\bin\Debug\JWBS.exe.config
+D:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\JWBS.exe
+D:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\JWBS.pdb
+D:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\bin\Debug\Resources\Licence.txt
+D:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\bin\Debug\Resources\ReadMe and Changelog.txt
+D:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\bin\Debug\JWBS.exe
+D:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\bin\Debug\JWBS.pdb
+D:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\QuakeRcon.csprojResolveAssemblyReference.cache
+D:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\JWBS.AboutBox1.resources
+D:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\QuakeRcon.Form1.resources
+D:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\JWBS.Properties.Resources.resources
+D:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\QuakeRcon.csproj.GenerateResource.Cache
+D:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\JWBS.Forms.VariableHelp.resources
+D:\Backup\Emil\Projekt\Programmering\QuakeRcon\QuakeRcon\obj\Debug\JWBS.VarHelp.resources
